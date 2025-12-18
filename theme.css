@@ -1,0 +1,62 @@
+:root {
+  /* Background colors */
+  --bg-primary-color: #091224;     /* main background */
+  --bg-secondary-color: #1e293b;   /* cards / sections */
+  --bg-tertiary-color: #141d46;    /* deep background */
+  --bg-danger-color:rgba(249, 24, 24, 0.948);
+  --bg-active-color:rgba(11, 112, 11, 0.859);
+    
+
+  /* Text colors */
+  --text-primary-color: #f8fafc;
+  --text-secondary-color: #cbd5e1;
+  --text-muted-color: #94a3b8;
+
+    /* Font family  */
+   --font-primary: "Inter", sans-serif;
+  --font-secondary: "Poppins", sans-serif;
+   /* Font size  */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 2rem;
+  --font-size-2xl: 4rem;
+    /* Font weight  */
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+ 
+  /* Border radius  */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --radius-full: 999px;
+
+   /* ===== Padding ===== */
+  --padding-xxs: 0.25rem;  /* 4px */
+  --padding-xs:  0.5rem;   /* 8px */
+  --padding-sm:  0.75rem;  /* 12px */
+  --padding-md:  1rem;     /* 16px */
+  --padding-lg:  1.5rem;   /* 24px */
+  --padding-xl:  2rem;     /* 32px */
+  --padding-2xl: 3rem;     /* 48px */
+
+  /* ===== Margin ===== */
+  --margin-xxs: 0.25rem;
+  --margin-xs:  0.5rem;
+  --margin-sm:  0.75rem;
+  --margin-md:  1rem;
+  --margin-lg:  1.5rem;
+  --margin-xl:  2rem;
+  --margin-2xl: 3rem;
+
+  /* ===== Gutter / Gap ===== */
+  --gutter-xs: 0.75rem;  /* 12px */
+  --gutter-sm: 1rem;     /* 16px */
+  --gutter-md: 1.5rem;   /* 24px */
+  --gutter-lg: 2rem;     /* 32px */
+  --gutter-xl: 3rem;     /* 48px */
+
+
+}
